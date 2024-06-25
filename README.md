@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Python and Rust<br>👯 I’m looking to collaborate on open-source projects<br>🌱 I’m currently learning DSA and system designing<br>💬 Ask me about Python, Rust, ReactJs, or anything related to full stack development<br>⚡ Fun fact: I am passionate about learning distributed applications!<br><br>Feel free to adjust the wording to better fit your style!
+🔭 I’m currently working on Python and Rust<br>👯 I’m looking to collaborate on open-source projects<br>🌱 I’m currently learning DSA and system designing<br>💬 Ask me about Python, Rust, ReactJs, or anything related to full stack development<br>⚡ Fun fact: I am passionate about learning distributed applications!<br><br>
 
 
 ## 🌐 Socials:
